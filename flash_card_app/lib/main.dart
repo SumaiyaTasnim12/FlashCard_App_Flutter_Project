@@ -24,8 +24,7 @@ class _MyAppState extends State<MyApp>{
 
      Flashcard(question: " Who teach you All ? ", 
      answer: "Sumaiya tasnim"),
-     Flashcard(question: "who is going to marry me? " ,
-      answer: "Sumaiya soitan"),
+     
   ];
 
   int _currentIndex = 0;
